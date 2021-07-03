@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           >
+<Button
+  style="@style/button"
+
+    android:text="@string/one"
+    android:textColor="@color/black"
+    android:textSize="@dimen/dp_50"
+    >
+</Button>
+
+        <Button style="@style/button"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/two">
+
+        </Button>
+
+        <Button
+               style="@style/button"
+               android:layout_gravity="center_horizontal"
+            android:text="@string/three"
+               >
+           </Button>
+           <Button
+               android:text="@string/four"
+               style="@style/button"
+               android:layout_gravity="center_horizontal"
+               >
+           </Button>
+
+        <Button
+            style="@style/button"
+            android:text="@string/five"
+            android:layout_gravity="center_horizontal">
+
+        </Button>
+
+        <Button
+               style="@style/button"
+            android:text="@string/six"
+               android:layout_gravity="center_horizontal"></Button>
+
+           <Button
+               android:text="@string/seven"
+               style="@style/button"
+               android:layout_gravity="center_horizontal"></Button>
+
+           <Button
+               style="@style/button"
+               android:text="@string/eight"
+               android:layout_gravity="center_horizontal"
+               >
+           </Button>
+           <Button
+               style="@style/button"
+               android:text="@string/nine"
+               android:layout_gravity="center_horizontal"
+               >
+           </Button>
+           <Button
+               style="@style/button"
+               android:text="@string/ten"
+               android:layout_gravity="center_horizontal"
+               >
+           </Button>
+
+       </LinearLayout>
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+            <Button
+                style="@style/button"
+                android:text="@string/elev"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                style="@style/button"
+                android:text="@string/twoe"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/thir"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/fourt"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button><Button
+            android:text="@string/fifth"
+            style="@style/button"
+            android:layout_gravity="center_horizontal"
+            >
+        </Button>
+            <Button
+                android:text="@string/sixth"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/seventh"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/eightth"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/nineth"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/twenty"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+          >
+            <Button
+                android:text="@string/twentyone"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                style="@style/button"
+                android:text="@string/twentytwo"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/twentythree"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/twentyfour"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button><Button
+            style="@style/button"
+            android:text="@string/twentyfive"
+            android:layout_gravity="center_horizontal"
+            >
+        </Button>
+            <Button
+                android:text="@string/twentysix"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/twentyseven"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/twentyeight"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/twentynine"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+            <Button
+                android:text="@string/thirty"
+                style="@style/button"
+                android:layout_gravity="center_horizontal"
+                >
+            </Button>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+    </LinearLayout>
+
+
+
+
+

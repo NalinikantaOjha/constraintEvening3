@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ConstraitsEvening3</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="ten">10</string>
+    <string name="elev">11</string>
+    <string name="twoe">12</string>
+    <string name="thir">13</string>
+    <string name="fourt">14</string>
+    <string name="fifth">15</string>
+    <string name="sixth">16</string>
+    <string name="seventh">17</string>
+    <string name="eightth">18</string>
+    <string name="nineth">19</string>
+    <string name="twenty">20</string>
+    <string name="twentyone">21</string>
+    <string name="twentytwo">22</string>
+    <string name="twentythree">23</string>
+    <string name="twentyfour">24</string>
+    <string name="twentyfive">25</string>
+    <string name="twentysix">26</string>
+    <string name="twentyseven">27</string>
+    <string name="twentyeight">28</string>
+    <string name="twentynine">29</string>
+    <string name="thirty">30</string>
+</resources>
